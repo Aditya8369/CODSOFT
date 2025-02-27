@@ -1,4 +1,6 @@
 /* 
+Created by Aditya Mahajan from SE computer engineering at PVPIT
+
 ------Problem statement ------
 Input: Take marks obtained (out of 100) in each subject.
 Calculate Total Marks: Sum up the marks obtained in all subjects.
